@@ -1,3 +1,3 @@
 # hello-world
-pokus 2
+pokuss 2
 3
